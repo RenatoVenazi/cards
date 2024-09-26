@@ -34,16 +34,22 @@ body {
 }
 
 .pergunta {
-    font-size: 30px;
+    font-size: 28px;
+    margin-top: 80px;
 }
 
 .materia {
     border-radius: 12px;
     height: 50;
     width: 100px;
+    display: flex;
+    text-align: center;
+    margin-top: 20px;
 }
 
 .namemateria {
 font-size: 22px;
 font-weight:bold ;
+margin: 3px;
+margin-right: 200px;
 }   
