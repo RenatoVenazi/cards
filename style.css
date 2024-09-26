@@ -36,3 +36,14 @@ body {
 .pergunta {
     font-size: 30px;
 }
+
+.materia {
+    border-radius: 12px;
+    height: 50;
+    width: 100px;
+}
+
+.namemateria {
+font-size: 22px;
+font-weight:bold ;
+}   
