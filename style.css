@@ -21,12 +21,9 @@ body {
     height: 270px;
     width: 480px;
     text-align: center;
+    flex-direction: column;
 }
-.textmateria {
-    color: white;
-    font: bold;
-    font-size: 32px
-}
+
 
 .materia {
     border: 2px solid white;
@@ -40,11 +37,13 @@ body {
 
 .materia {
     border-radius: 12px;
+    bo
     height: 50;
     width: 100px;
     display: flex;
     text-align: center;
     margin-top: 20px;
+    color: ;
 }
 
 .namemateria {
