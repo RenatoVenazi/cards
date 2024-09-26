@@ -37,18 +37,19 @@ body {
 
 .materia {
     border-radius: 12px;
-    bo
+    border: 2px solid black;
     height: 50;
     width: 100px;
     display: flex;
     text-align: center;
     margin-top: 20px;
-    color: ;
+    margin-right: 200px;
 }
 
 .namemateria {
 font-size: 22px;
 font-weight:bold ;
 margin: 3px;
-margin-right: 200px;
+margin-left: 5px;
+
 }   
