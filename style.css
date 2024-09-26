@@ -42,15 +42,15 @@ body {
     width: 100px;
     display: flex;
     text-align: center;
-    margin-top: 20px;
-    margin-right: 300px;
+    margin-top: 15px;
+    margin-right: 350px;
 }
 
 .namemateria {
 font-size: 22px;
 font-weight:bold ;
 margin: 3px;
-margin-left: 5px;
+margin-left: 10px;
 
 
 }   
